@@ -1,0 +1,36 @@
+{
+  "doc_id": "bsa-2023",
+  "doc_title": "Bharatiya Sakshya Adhiniyam, 2023",
+  "doc_type": "act",
+  "act_code": "BSA",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/20063",
+  "verification_status": "unverified",
+  "text": "Section 22. Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding\nA confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat, coercion or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient, in the opinion of the Court, to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.\n\nSection 23. Confession to police officer not to be proved\nNo confession made to a police officer shall be proved as against a person accused of any offence. No confession made by any person while he is in the custody of a police officer, unless it is made in the immediate presence of a Magistrate, shall be proved against him.\n\nSection 24. Consideration of proved confession affecting person making it and others jointly under trial for same offence\nWhen more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the Court may take into consideration such confession as against such other person as well as against the person who makes such confession.\n\nSection 39. Opinions of experts\nWhen the Court has to form an opinion upon a point of foreign law or of science or art, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions, are relevant facts. Such persons are called experts.",
+  "chunks": [
+    {
+      "chunk_id": "bsa-2023::c000",
+      "char_start": 0,
+      "char_end": 669,
+      "seq": 0
+    },
+    {
+      "chunk_id": "bsa-2023::c001",
+      "char_start": 671,
+      "char_end": 998,
+      "seq": 1
+    },
+    {
+      "chunk_id": "bsa-2023::c002",
+      "char_start": 1000,
+      "char_end": 1439,
+      "seq": 2
+    },
+    {
+      "chunk_id": "bsa-2023::c003",
+      "char_start": 1441,
+      "char_end": 1833,
+      "seq": 3
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:36.813Z"
+}

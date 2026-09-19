@@ -1,0 +1,54 @@
+{
+  "doc_id": "it-2000",
+  "doc_title": "Information Technology Act, 2000",
+  "doc_type": "act",
+  "act_code": "IT",
+  "jurisdiction": "IN",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+  "verification_status": "unverified",
+  "default_status": "in_force",
+  "effective_from": "2000-10-17",
+  "provisions": [
+    {
+      "section": "43",
+      "heading": "Penalty and compensation for damage to computer, computer system, etc.",
+      "title_path": "Chapter IX — Penalties, Compensation and Adjudication",
+      "text": "If any person without permission of the owner or any other person who is in charge of a computer, computer system or computer network accesses or secures access to such computer, computer system or computer network; downloads, copies or extracts any data; introduces any computer contaminant or computer virus; damages or causes to be damaged any computer, computer system or computer network, data, computer data base or any other programmes; disrupts or causes disruption of any computer, computer system or computer network, he shall be liable to pay damages by way of compensation to the person so affected."
+    },
+    {
+      "section": "66",
+      "heading": "Computer related offences",
+      "title_path": "Chapter XI — Offences",
+      "text": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both."
+    },
+    {
+      "section": "66A",
+      "heading": "Punishment for sending offensive messages through communication service, etc.",
+      "title_path": "Chapter XI — Offences",
+      "status": "struck_down",
+      "struck_down_by": "Shreya Singhal v. Union of India, (2015) 5 SCC 1",
+      "effective_to": "2015-03-24",
+      "text": "Any person who sends, by means of a computer resource or a communication device,— (a) any information that is grossly offensive or has menacing character; or (b) any information which he knows to be false, but for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will, persistently by making use of such computer resource or a communication device; or (c) any electronic mail or electronic mail message for the purpose of causing annoyance or inconvenience or to deceive or to mislead the addressee or recipient about the origin of such messages, shall be punishable with imprisonment for a term which may extend to three years and with fine. NOTE ON STATUS: This section was struck down in its entirety by the Supreme Court of India in Shreya Singhal v. Union of India, (2015) 5 SCC 1, as violative of Article 19(1)(a) of the Constitution and not saved by Article 19(2). It is no longer in force and no prosecution may be founded on it."
+    },
+    {
+      "section": "67",
+      "heading": "Punishment for publishing or transmitting obscene material in electronic form",
+      "title_path": "Chapter XI — Offences",
+      "text": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to five years and also with fine which may extend to ten lakh rupees."
+    },
+    {
+      "section": "69A",
+      "subsection": "1",
+      "heading": "Power to issue directions for blocking for public access of any information through any computer resource",
+      "title_path": "Chapter XI — Offences",
+      "text": "Where the Central Government or any of its officers specially authorised by it in this behalf is satisfied that it is necessary or expedient so to do, in the interest of sovereignty and integrity of India, defence of India, security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of any cognizable offence relating to above, it may by order direct any agency of the Government or intermediary to block for access by the public or cause to be blocked for access by the public any information generated, transmitted, received, stored or hosted in any computer resource."
+    },
+    {
+      "section": "79",
+      "subsection": "1",
+      "heading": "Exemption from liability of intermediary in certain cases",
+      "title_path": "Chapter XII — Intermediaries Not to Be Liable in Certain Cases",
+      "text": "Notwithstanding anything contained in any law for the time being in force but subject to the provisions of sub-sections (2) and (3), an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him."
+    }
+  ]
+}

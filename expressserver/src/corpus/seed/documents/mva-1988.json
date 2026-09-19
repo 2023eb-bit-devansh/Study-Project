@@ -1,0 +1,44 @@
+{
+  "doc_id": "mva-1988",
+  "doc_title": "Motor Vehicles Act, 1988 (as amended in 2019)",
+  "doc_type": "act",
+  "act_code": "MVA",
+  "jurisdiction": "IN",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1798",
+  "verification_status": "unverified",
+  "default_status": "in_force",
+  "effective_from": "1989-07-01",
+  "provisions": [
+    {
+      "section": "129",
+      "heading": "Wearing of protective headgear",
+      "title_path": "Chapter VIII — Control of Traffic",
+      "text": "Every person, above four years of age, driving or riding or being carried on a motor cycle of any class or description shall, while in a public place, wear protective headgear conforming to such standards as may be prescribed by the Central Government: Provided that the provisions of this section shall not apply to a person who is a Sikh, if he is, while driving or riding on the motor cycle, in a public place, wearing a turban."
+    },
+    {
+      "section": "177",
+      "heading": "General provision for punishment of offences",
+      "title_path": "Chapter XIII — Offences, Penalties and Procedure",
+      "text": "Whoever contravenes any provision of this Act or of any rule, regulation or notification made thereunder shall, if no penalty is provided for the offence, be punishable for the first offence with fine of five hundred rupees, and for any second or subsequent offence with fine of one thousand five hundred rupees."
+    },
+    {
+      "section": "183",
+      "subsection": "1",
+      "heading": "Driving at excessive speed",
+      "title_path": "Chapter XIII — Offences, Penalties and Procedure",
+      "text": "Whoever drives a vehicle in contravention of the speed limits referred to in section 112 shall be punishable with fine of one thousand rupees for the first offence in case of light motor vehicle and two thousand rupees in case of medium goods vehicle or medium passenger vehicle or heavy goods vehicle or heavy passenger vehicle, and for the second or any subsequent offence with fine of two thousand rupees in case of light motor vehicle and four thousand rupees in case of medium goods vehicle or medium passenger vehicle or heavy goods vehicle or heavy passenger vehicle."
+    },
+    {
+      "section": "185",
+      "heading": "Driving by a drunken person or by a person under the influence of drugs",
+      "title_path": "Chapter XIII — Offences, Penalties and Procedure",
+      "text": "Whoever, while driving, or attempting to drive, a motor vehicle,— (a) has, in his blood, alcohol exceeding 30 mg. per 100 ml. of blood detected in a test by a breath analyser or in any other test including a laboratory test, or (b) is under the influence of a drug to such an extent as to be incapable of exercising proper control over the vehicle, shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both; and for a second or subsequent offence, if committed within three years of the commission of the previous similar offence, with imprisonment for a term which may extend to two years, or with fine of fifteen thousand rupees, or with both."
+    },
+    {
+      "section": "194D",
+      "heading": "Penalty for not wearing protective headgear",
+      "title_path": "Chapter XIII — Offences, Penalties and Procedure",
+      "text": "Whoever drives a motor cycle or causes or allows a motor cycle to be driven in contravention of the provisions of section 129 or the rules or regulations made thereunder shall be punishable with a fine of one thousand rupees and he shall be disqualified for holding licence to drive for a period of three months."
+    }
+  ]
+}

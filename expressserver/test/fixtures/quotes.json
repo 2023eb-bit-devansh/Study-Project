@@ -1,0 +1,242 @@
+[
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever commits murder shall be punished with death, or imprisonment for life",
+    "genuine": true,
+    "note": "verbatim prefix"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.",
+    "genuine": true,
+    "note": "dropped comma"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever  commits   murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "genuine": true,
+    "note": "whitespace drift"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "“Whoever commits murder shall be punished with death, or imprisonment for life”",
+    "genuine": true,
+    "note": "smart quotes added"
+  },
+  {
+    "source": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "quote": "shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "genuine": true,
+    "note": "verbatim tail"
+  },
+  {
+    "source": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "quote": "shall be punished with imprisonment of either description for a term which may extend to seven years and shall also be liable to fine",
+    "genuine": true,
+    "note": "punctuation stripped"
+  },
+  {
+    "source": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "quote": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "quote": "No confession made to a police officer shall be proved as against a person accused of any offence.",
+    "genuine": true,
+    "note": "comma dropped"
+  },
+  {
+    "source": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "quote": "No confession made to a p0lice officer, shall be proved as against a person accused of any offence.",
+    "genuine": true,
+    "note": "OCR: o->0"
+  },
+  {
+    "source": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+    "quote": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+    "quote": "Subject to the provisions of this Act, all citizens shall have the right to inforrnation.",
+    "genuine": true,
+    "note": "OCR: m->rn"
+  },
+  {
+    "source": "Notwithstanding anything contained in this Act, there shall be no obligation to give any citizen, information, disclosure of which would prejudicially affect the sovereignty and integrity of India.",
+    "quote": "there shall be no obligation to give any citizen, information, disclosure of which would prejudicially affect the sovereignty and integrity of India.",
+    "genuine": true,
+    "note": "verbatim tail"
+  },
+  {
+    "source": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "quote": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "quote": "No person shall be deprived of his life or personal liberty except according to procedure established by law",
+    "genuine": true,
+    "note": "trailing stop dropped"
+  },
+  {
+    "source": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "quote": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country.",
+    "quote": "The provisions contained in this Part shall not be enforceable by any court",
+    "genuine": true,
+    "note": "verbatim prefix"
+  },
+  {
+    "source": "shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both",
+    "quote": "shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed",
+    "quote": "shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed",
+    "genuine": true,
+    "note": "verbatim"
+  },
+  {
+    "source": "shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed",
+    "quote": "shall, as expeditiously as possible, and in any case within 30 days of the receipt of the request",
+    "genuine": true,
+    "note": "spelled number to digits"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever commits murder shall be punished with death, or imprisonment for a term of twenty years, and shall also be liable to fine.",
+    "genuine": false,
+    "note": "penalty changed"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Murder is punishable by death or life imprisonment under Indian law.",
+    "genuine": false,
+    "note": "paraphrase"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever commits murder shall not be punished with death, or imprisonment for life.",
+    "genuine": false,
+    "note": "negation inserted"
+  },
+  {
+    "source": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "quote": "shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "genuine": false,
+    "note": "seven -> ten"
+  },
+  {
+    "source": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "quote": "shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to rigorous imprisonment.",
+    "genuine": false,
+    "note": "consequence swapped"
+  },
+  {
+    "source": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "quote": "Any confession made to a police officer may be proved as against a person accused of any offence.",
+    "genuine": false,
+    "note": "meaning reversed"
+  },
+  {
+    "source": "No confession made to a police officer, shall be proved as against a person accused of any offence.",
+    "quote": "No confession made to a Magistrate shall be proved as against a person accused of any offence.",
+    "genuine": false,
+    "note": "actor swapped"
+  },
+  {
+    "source": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+    "quote": "Subject to the provisions of this Act, all persons shall have the right to information.",
+    "genuine": false,
+    "note": "citizens -> persons"
+  },
+  {
+    "source": "Subject to the provisions of this Act, all citizens shall have the right to information.",
+    "quote": "All citizens shall have an absolute and unqualified right to information.",
+    "genuine": false,
+    "note": "qualifier removed"
+  },
+  {
+    "source": "Notwithstanding anything contained in this Act, there shall be no obligation to give any citizen, information, disclosure of which would prejudicially affect the sovereignty and integrity of India.",
+    "quote": "there shall be an obligation to give any citizen information, disclosure of which would affect the sovereignty of India.",
+    "genuine": false,
+    "note": "meaning reversed"
+  },
+  {
+    "source": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "quote": "No person shall be deprived of his life or personal liberty except according to due process of law.",
+    "genuine": false,
+    "note": "procedure established -> due process"
+  },
+  {
+    "source": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "quote": "Every person has an inalienable right to life and personal liberty.",
+    "genuine": false,
+    "note": "paraphrase"
+  },
+  {
+    "source": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "quote": "The State shall secure for the citizens a uniform civil code throughout the territory of India.",
+    "genuine": false,
+    "note": "endeavour to removed"
+  },
+  {
+    "source": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "quote": "The State must enact a uniform civil code within ten years.",
+    "genuine": false,
+    "note": "invented obligation"
+  },
+  {
+    "source": "The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country.",
+    "quote": "The provisions contained in this Part shall be enforceable by any court",
+    "genuine": false,
+    "note": "negation removed"
+  },
+  {
+    "source": "shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both",
+    "quote": "shall be punishable for the first offence with imprisonment for a term which may extend to two years, or with fine of ten thousand rupees, or with both",
+    "genuine": false,
+    "note": "six months -> two years"
+  },
+  {
+    "source": "shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both",
+    "quote": "shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of fifty thousand rupees, or with both",
+    "genuine": false,
+    "note": "fine changed"
+  },
+  {
+    "source": "shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed",
+    "quote": "shall, as expeditiously as possible, and in any case within sixty days of the receipt of the request",
+    "genuine": false,
+    "note": "thirty -> sixty"
+  },
+  {
+    "source": "shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed",
+    "quote": "must provide the information immediately upon receipt of the request",
+    "genuine": false,
+    "note": "paraphrase + wrong duty"
+  },
+  {
+    "source": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "quote": "Whoever attempts to commit murder shall be punished with death, or imprisonment for life.",
+    "genuine": false,
+    "note": "attempt inserted"
+  }
+]

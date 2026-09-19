@@ -1,0 +1,42 @@
+{
+  "doc_id": "mva-1988",
+  "doc_title": "Motor Vehicles Act, 1988 (as amended in 2019)",
+  "doc_type": "act",
+  "act_code": "MVA",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1798",
+  "verification_status": "unverified",
+  "text": "Section 129. Wearing of protective headgear\nEvery person, above four years of age, driving or riding or being carried on a motor cycle of any class or description shall, while in a public place, wear protective headgear conforming to such standards as may be prescribed by the Central Government: Provided that the provisions of this section shall not apply to a person who is a Sikh, if he is, while driving or riding on the motor cycle, in a public place, wearing a turban.\n\nSection 177. General provision for punishment of offences\nWhoever contravenes any provision of this Act or of any rule, regulation or notification made thereunder shall, if no penalty is provided for the offence, be punishable for the first offence with fine of five hundred rupees, and for any second or subsequent offence with fine of one thousand five hundred rupees.\n\nSection 183(1). Driving at excessive speed\nWhoever drives a vehicle in contravention of the speed limits referred to in section 112 shall be punishable with fine of one thousand rupees for the first offence in case of light motor vehicle and two thousand rupees in case of medium goods vehicle or medium passenger vehicle or heavy goods vehicle or heavy passenger vehicle, and for the second or any subsequent offence with fine of two thousand rupees in case of light motor vehicle and four thousand rupees in case of medium goods vehicle or medium passenger vehicle or heavy goods vehicle or heavy passenger vehicle.\n\nSection 185. Driving by a drunken person or by a person under the influence of drugs\nWhoever, while driving, or attempting to drive, a motor vehicle,— (a) has, in his blood, alcohol exceeding 30 mg. per 100 ml. of blood detected in a test by a breath analyser or in any other test including a laboratory test, or (b) is under the influence of a drug to such an extent as to be incapable of exercising proper control over the vehicle, shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine of ten thousand rupees, or with both; and for a second or subsequent offence, if committed within three years of the commission of the previous similar offence, with imprisonment for a term which may extend to two years, or with fine of fifteen thousand rupees, or with both.\n\nSection 194D. Penalty for not wearing protective headgear\nWhoever drives a motor cycle or causes or allows a motor cycle to be driven in contravention of the provisions of section 129 or the rules or regulations made thereunder shall be punishable with a fine of one thousand rupees and he shall be disqualified for holding licence to drive for a period of three months.",
+  "chunks": [
+    {
+      "chunk_id": "mva-1988::c000",
+      "char_start": 0,
+      "char_end": 475,
+      "seq": 0
+    },
+    {
+      "chunk_id": "mva-1988::c001",
+      "char_start": 477,
+      "char_end": 847,
+      "seq": 1
+    },
+    {
+      "chunk_id": "mva-1988::c002",
+      "char_start": 849,
+      "char_end": 1466,
+      "seq": 2
+    },
+    {
+      "chunk_id": "mva-1988::c003",
+      "char_start": 1468,
+      "char_end": 2293,
+      "seq": 3
+    },
+    {
+      "chunk_id": "mva-1988::c004",
+      "char_start": 2295,
+      "char_end": 2665,
+      "seq": 4
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:42.742Z"
+}

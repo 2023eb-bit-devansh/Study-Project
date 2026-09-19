@@ -1,0 +1,66 @@
+{
+  "doc_id": "iea-1872",
+  "doc_title": "Indian Evidence Act, 1872",
+  "doc_type": "act",
+  "act_code": "IEA",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+  "verification_status": "unverified",
+  "text": "Section 24. Confession caused by inducement, threat or promise, when irrelevant in criminal proceeding\nA confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient, in the opinion of the Court, to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.\n\nSection 25. Confession to police officer not to be proved\nNo confession made to a police officer, shall be proved as against a person accused of any offence.\n\nSection 26. Confession by accused while in custody of police not to be proved against him\nNo confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person.\n\nSection 27. How much of information received from accused may be proved\nProvided that, when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.\n\nSection 32(1). Dying declaration\nStatements, written or verbal, of relevant facts made by a person who is dead, or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which under the circumstances of the case appears to the Court unreasonable, are themselves relevant facts when the statement is made by a person as to the cause of his death, or as to any of the circumstances of the transaction which resulted in his death, in cases in which the cause of that person’s death comes into question. Such statements are relevant whether the person who made them was or was not, at the time when they were made, under expectation of death, and whatever may be the nature of the proceeding in which the cause of his death comes into question.\n\nSection 45. Opinions of experts\nWhen the Court has to form an opinion upon a point of foreign law, or of science, or art, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. Such persons are called experts.\n\nSection 101. Burden of proof\nWhoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist. When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.\n\nSection 102. On whom burden of proof lies\nThe burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side.\n\nSection 114. Court may presume existence of certain facts\nThe Court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relation to the facts of the particular case.",
+  "chunks": [
+    {
+      "chunk_id": "iea-1872::c000",
+      "char_start": 0,
+      "char_end": 649,
+      "seq": 0
+    },
+    {
+      "chunk_id": "iea-1872::c001",
+      "char_start": 651,
+      "char_end": 808,
+      "seq": 1
+    },
+    {
+      "chunk_id": "iea-1872::c002",
+      "char_start": 810,
+      "char_end": 1082,
+      "seq": 2
+    },
+    {
+      "chunk_id": "iea-1872::c003",
+      "char_start": 1084,
+      "char_end": 1466,
+      "seq": 3
+    },
+    {
+      "chunk_id": "iea-1872::c004",
+      "char_start": 1468,
+      "char_end": 2299,
+      "seq": 4
+    },
+    {
+      "chunk_id": "iea-1872::c005",
+      "char_start": 2301,
+      "char_end": 2694,
+      "seq": 5
+    },
+    {
+      "chunk_id": "iea-1872::c006",
+      "char_start": 2696,
+      "char_end": 3007,
+      "seq": 6
+    },
+    {
+      "chunk_id": "iea-1872::c007",
+      "char_start": 3009,
+      "char_end": 3178,
+      "seq": 7
+    },
+    {
+      "chunk_id": "iea-1872::c008",
+      "char_start": 3180,
+      "char_end": 3485,
+      "seq": 8
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:38.711Z"
+}

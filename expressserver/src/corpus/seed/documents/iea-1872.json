@@ -1,0 +1,69 @@
+{
+  "doc_id": "iea-1872",
+  "doc_title": "Indian Evidence Act, 1872",
+  "doc_type": "act",
+  "act_code": "IEA",
+  "jurisdiction": "IN",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/15351",
+  "verification_status": "unverified",
+  "default_status": "applies_to_prior_offences",
+  "effective_from": "1872-09-01",
+  "effective_to": "2024-06-30",
+  "provisions": [
+    {
+      "section": "24",
+      "heading": "Confession caused by inducement, threat or promise, when irrelevant in criminal proceeding",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Admissions",
+      "text": "A confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient, in the opinion of the Court, to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him."
+    },
+    {
+      "section": "25",
+      "heading": "Confession to police officer not to be proved",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Admissions",
+      "text": "No confession made to a police officer, shall be proved as against a person accused of any offence."
+    },
+    {
+      "section": "26",
+      "heading": "Confession by accused while in custody of police not to be proved against him",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Admissions",
+      "text": "No confession made by any person whilst he is in the custody of a police officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person."
+    },
+    {
+      "section": "27",
+      "heading": "How much of information received from accused may be proved",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Admissions",
+      "text": "Provided that, when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved."
+    },
+    {
+      "section": "32",
+      "subsection": "1",
+      "heading": "Dying declaration",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Statements by Persons Who Cannot Be Called as Witnesses",
+      "text": "Statements, written or verbal, of relevant facts made by a person who is dead, or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which under the circumstances of the case appears to the Court unreasonable, are themselves relevant facts when the statement is made by a person as to the cause of his death, or as to any of the circumstances of the transaction which resulted in his death, in cases in which the cause of that person’s death comes into question. Such statements are relevant whether the person who made them was or was not, at the time when they were made, under expectation of death, and whatever may be the nature of the proceeding in which the cause of his death comes into question."
+    },
+    {
+      "section": "45",
+      "heading": "Opinions of experts",
+      "title_path": "Chapter II — Of the Relevancy of Facts > Opinions of Third Persons",
+      "text": "When the Court has to form an opinion upon a point of foreign law, or of science, or art, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. Such persons are called experts."
+    },
+    {
+      "section": "101",
+      "heading": "Burden of proof",
+      "title_path": "Chapter VII — Of the Burden of Proof",
+      "text": "Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist. When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person."
+    },
+    {
+      "section": "102",
+      "heading": "On whom burden of proof lies",
+      "title_path": "Chapter VII — Of the Burden of Proof",
+      "text": "The burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side."
+    },
+    {
+      "section": "114",
+      "heading": "Court may presume existence of certain facts",
+      "title_path": "Chapter VII — Of the Burden of Proof",
+      "text": "The Court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relation to the facts of the particular case."
+    }
+  ]
+}

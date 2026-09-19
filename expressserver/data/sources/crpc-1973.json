@@ -1,0 +1,72 @@
+{
+  "doc_id": "crpc-1973",
+  "doc_title": "Code of Criminal Procedure, 1973",
+  "doc_type": "act",
+  "act_code": "CRPC",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/16225",
+  "verification_status": "unverified",
+  "text": "Section 41(1). When police may arrest without warrant\nAny police officer may without an order from a Magistrate and without a warrant, arrest any person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years, whether with or without fine, if the police officer has reason to believe on the basis of such complaint, information, or suspicion that such person has committed the said offence, and the police officer is satisfied that such arrest is necessary to prevent such person from committing any further offence, or for proper investigation of the offence, or to prevent such person from causing the evidence of the offence to disappear or tampering with such evidence in any manner.\n\nSection 41A. Notice of appearance before police officer\nThe police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice. Where such a person complies and continues to comply with the notice, he shall not be arrested in respect of the offence referred to in the notice unless, for reasons to be recorded, the police officer is of the opinion that he ought to be arrested.\n\nSection 50. Person arrested to be informed of grounds of arrest and of right to bail\nEvery police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest. Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail and that he may arrange for sureties on his behalf.\n\nSection 154(1). Information in cognizable cases\nEvery information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.\n\nSection 161. Examination of witnesses by police\nAny police officer making an investigation under this Chapter may examine orally any person supposed to be acquainted with the facts and circumstances of the case. Such person shall be bound to answer truly all questions relating to such case put to him by such officer, other than questions the answers to which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.\n\nSection 167(2). Procedure when investigation cannot be completed in twenty-four hours\nThe Magistrate may authorise the detention of the accused person, otherwise than in the custody of the police, beyond the period of fifteen days, if he is satisfied that adequate grounds exist for doing so, but no Magistrate shall authorise the detention of the accused person in custody under this paragraph for a total period exceeding ninety days, where the investigation relates to an offence punishable with death, imprisonment for life or imprisonment for a term of not less than ten years, and sixty days, where the investigation relates to any other offence, and, on the expiry of the said period of ninety days, or sixty days, as the case may be, the accused person shall be released on bail if he is prepared to and does furnish bail.\n\nSection 436. In what cases bail to be taken\nWhen any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceeding before such Court to give bail, such person shall be released on bail.\n\nSection 437. When bail may be taken in case of non-bailable offence\nWhen any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but such person shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life.\n\nSection 438. Direction for grant of bail to person apprehending arrest\nWhere any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail.\n\nSection 482. Saving of inherent powers of High Court\nNothing in this Code shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+  "chunks": [
+    {
+      "chunk_id": "crpc-1973::c000",
+      "char_start": 0,
+      "char_end": 911,
+      "seq": 0
+    },
+    {
+      "chunk_id": "crpc-1973::c001",
+      "char_start": 913,
+      "char_end": 1643,
+      "seq": 1
+    },
+    {
+      "chunk_id": "crpc-1973::c002",
+      "char_start": 1645,
+      "char_end": 2173,
+      "seq": 2
+    },
+    {
+      "chunk_id": "crpc-1973::c003",
+      "char_start": 2175,
+      "char_end": 2724,
+      "seq": 3
+    },
+    {
+      "chunk_id": "crpc-1973::c004",
+      "char_start": 2726,
+      "char_end": 3174,
+      "seq": 4
+    },
+    {
+      "chunk_id": "crpc-1973::c005",
+      "char_start": 3176,
+      "char_end": 4006,
+      "seq": 5
+    },
+    {
+      "chunk_id": "crpc-1973::c006",
+      "char_start": 4008,
+      "char_end": 4417,
+      "seq": 6
+    },
+    {
+      "chunk_id": "crpc-1973::c007",
+      "char_start": 4419,
+      "char_end": 4949,
+      "seq": 7
+    },
+    {
+      "chunk_id": "crpc-1973::c008",
+      "char_start": 4951,
+      "char_end": 5407,
+      "seq": 8
+    },
+    {
+      "chunk_id": "crpc-1973::c009",
+      "char_start": 5409,
+      "char_end": 5732,
+      "seq": 9
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:38.086Z"
+}

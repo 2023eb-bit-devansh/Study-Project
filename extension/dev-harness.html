@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Side panel — dev harness</title>
+  </head>
+  <body>
+    <!--
+      DEVELOPMENT ONLY. Not referenced by manifest.json and not one of the
+      Vite build inputs, so it never reaches dist/. It exists so the panel's
+      layout can be worked on in a normal browser tab, where the chrome.*
+      APIs do not exist.
+    -->
+    <script type="module" src="/src/dev-harness.ts"></script>
+    <div id="root"></div>
+    <script type="module" src="/src/panel-entry.tsx"></script>
+  </body>
+</html>

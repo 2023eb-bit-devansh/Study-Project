@@ -1,0 +1,24 @@
+{
+  "doc_id": "judgment-puttaswamy-2017",
+  "doc_title": "K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1",
+  "doc_type": "judgment",
+  "act_code": "",
+  "source_url": "https://indiankanoon.org/doc/91938676/",
+  "verification_status": "unverified",
+  "text": "Justice K.S. Puttaswamy (Retd.) v. Union of India — Para holding\nThe right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution. The decisions in M.P. Sharma and Kharak Singh, to the extent that they hold that the right to privacy is not protected by the Constitution, stand overruled.\n\nJustice K.S. Puttaswamy (Retd.) v. Union of India — Para limits\n…cisions in M.P. Sharma and Kharak Singh, to the extent that they hold that the right to privacy is not protected by the Constitution, stand overruled. Like other rights which form part of the fundamental freedoms protected by Part III, including the right to life and personal liberty under Article 21, privacy is not an absolute right. A law which encroaches upon privacy will have to withstand the touchstone of permissible restrictions on fundamental rights: there must be a law in existence to justify an encroachment on privacy, the restriction must be necessary in a democratic society for a legitimate aim, and the extent of such interference must be proportionate to the need for such interference.",
+  "chunks": [
+    {
+      "chunk_id": "judgment-puttaswamy-2017::c000",
+      "char_start": 0,
+      "char_end": 409,
+      "seq": 0
+    },
+    {
+      "chunk_id": "judgment-puttaswamy-2017::c001",
+      "char_start": 411,
+      "char_end": 1182,
+      "seq": 1
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:41.629Z"
+}

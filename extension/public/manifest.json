@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "AI Fact Checker — Law",
+  "version": "0.1.0",
+  "description": "Check a legal claim against a curated corpus of Indian statutes and judgments, with every quotation matched back to its source.",
+  "minimum_chrome_version": "116",
+
+  "permissions": ["sidePanel", "contextMenus", "storage"],
+
+  "host_permissions": ["http://localhost:3000/*"],
+
+  "optional_host_permissions": ["http://*/*", "https://*/*"],
+
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+
+  "action": {
+    "default_title": "Open AI Fact Checker"
+  },
+
+  "options_page": "options.html",
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

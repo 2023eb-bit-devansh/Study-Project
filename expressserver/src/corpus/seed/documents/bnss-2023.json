@@ -1,0 +1,41 @@
+{
+  "doc_id": "bnss-2023",
+  "doc_title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "doc_type": "act",
+  "act_code": "BNSS",
+  "jurisdiction": "IN",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/20099",
+  "verification_status": "unverified",
+  "default_status": "in_force",
+  "effective_from": "2024-07-01",
+  "provisions": [
+    {
+      "section": "35",
+      "subsection": "1",
+      "heading": "When police may arrest without warrant",
+      "title_path": "Chapter V — Arrest of Persons",
+      "text": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years, whether with or without fine, if the police officer has reason to believe on the basis of such complaint, information, or suspicion that such person has committed the said offence, and the police officer is satisfied that such arrest is necessary."
+    },
+    {
+      "section": "173",
+      "subsection": "1",
+      "heading": "Information in cognizable cases",
+      "title_path": "Chapter XII — Information to the Police and Their Powers to Investigate",
+      "text": "Every information relating to the commission of a cognizable offence, irrespective of the area where the offence is committed, may be given orally or by electronic communication to an officer in charge of a police station, and if given orally, it shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf."
+    },
+    {
+      "section": "187",
+      "subsection": "3",
+      "heading": "Procedure when investigation cannot be completed in twenty-four hours",
+      "title_path": "Chapter XIII — Information to the Police and Their Powers to Investigate",
+      "text": "The Magistrate may authorise the detention of the accused person, otherwise than in the custody of the police, beyond the period of fifteen days, if he is satisfied that adequate grounds exist for doing so, but no Magistrate shall authorise the detention of the accused person in custody under this sub-section for a total period exceeding ninety days, where the investigation relates to an offence punishable with death, imprisonment for life or imprisonment for a term of not less than ten years, and sixty days, where the investigation relates to any other offence."
+    },
+    {
+      "section": "479",
+      "subsection": "1",
+      "heading": "Maximum period for which undertrial prisoner can be detained",
+      "title_path": "Chapter XXXV — Provisions as to Bail and Bonds",
+      "text": "Where a person has, during the period of investigation, inquiry or trial under this Sanhita of an offence under any law, not being an offence for which the punishment of death or life imprisonment has been specified, undergone detention for a period extending up to one-half of the maximum period of imprisonment specified for that offence, he shall be released by the Court on bail. Provided that where such person is a first-time offender, he shall be released on bond by the Court, if he has undergone detention for the period extending up to one-third of the maximum period of imprisonment specified for such offence."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ai-fact-checker-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI Fact Checker (Law domain) — Express orchestration backend + monitoring dashboard",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "seed": "node scripts/seedCorpus.js",
+    "models": "node scripts/listModels.js",
+    "demo": "node scripts/demo.js",
+    "tune": "node scripts/tuneThresholds.js",
+    "verify-corpus": "node scripts/verifyCorpus.js",
+    "test": "node --test test/unit/*.test.js",
+    "test:all": "node --test test/unit/*.test.js test/integration/*.test.js",
+    "dashboard:dev": "npm --prefix dashboard run dev",
+    "dashboard:build": "npm --prefix dashboard run build"
+  },
+  "dependencies": {
+    "@google/genai": "2.21.0",
+    "chromadb": "3.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "undici": "^7.16.0"
+  }
+}

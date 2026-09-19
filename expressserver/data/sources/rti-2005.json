@@ -1,0 +1,84 @@
+{
+  "doc_id": "rti-2005",
+  "doc_title": "Right to Information Act, 2005",
+  "doc_type": "act",
+  "act_code": "RTI",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/2065",
+  "verification_status": "unverified",
+  "text": "Section 2(f). Definition of “information”\n“information” means any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form and information relating to any private body which can be accessed by a public authority under any other law for the time being in force.\n\nSection 2(h). Definition of “public authority”\n“public authority” means any authority or body or institution of self-government established or constituted by or under the Constitution; by any other law made by Parliament; by any other law made by State Legislature; by notification issued or order made by the appropriate Government, and includes any body owned, controlled or substantially financed; non-Government organisation substantially financed, directly or indirectly by funds provided by the appropriate Government.\n\nSection 2(j). Definition of “right to information”\n“right to information” means the right to information accessible under this Act which is held by or under the control of any public authority and includes the right to inspection of work, documents, records; taking notes, extracts or certified copies of documents or records; taking certified samples of material; obtaining information in the form of diskettes, floppies, tapes, video cassettes or in any other electronic mode or through printouts where such information is stored in a computer or in any other device.\n\nSection 3. Right to information\nSubject to the provisions of this Act, all citizens shall have the right to information.\n\nSection 6(1). Request for obtaining information\nA person, who desires to obtain any information under this Act, shall make a request in writing or through electronic means in English or Hindi or in the official language of the area in which the application is being made, accompanying such fee as may be prescribed, to the Central Public Information Officer or State Public Information Officer, as the case may be, of the concerned public authority, specifying the particulars of the information sought by him or her.\n\nSection 6(2). No reasons need be given by the applicant\nAn applicant making request for information shall not be required to give any reason for requesting the information or any other personal details except those that may be necessary for contacting him.\n\nSection 7(1). Disposal of request\nSubject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request under section 6 shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed or reject the request for any of the reasons specified in sections 8 and 9.\n\nSection 8(1). Exemption from disclosure of information\nNotwithstanding anything contained in this Act, there shall be no obligation to give any citizen,— (a) information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence; (b) information which has been expressly forbidden to be published by any court of law or tribunal or the disclosure of which may constitute contempt of court; (c) information, the disclosure of which would cause a breach of privilege of Parliament or the State Legislature; (d) information including commercial confidence, trade secrets or intellectual property, the disclosure of which would harm the competitive position of a third party; (e) information available to a person in his fiduciary relationship; (f) information received in confidence from foreign Government; (g) information, the disclosure of which would endanger the life or physical safety of any person or identify the source of information or assistance given in confidence for law enforcement or security purposes;\n\nSection 8(1). Exemption from disclosure of information (continued 2)\n(h) information which would impede the process of investigation or apprehension or prosecution of offenders; (i) cabinet papers including records of deliberations of the Council of Ministers, Secretaries and other officers; (j) information which relates to personal information the disclosure of which has no relationship to any public activity or interest, or which would cause unwarranted invasion of the privacy of the individual.\n\nSection 19(1). Appeal\nAny person who, does not receive a decision within the time specified in sub-section (1) or clause (a) of sub-section (3) of section 7, or is aggrieved by a decision of the Central Public Information Officer or State Public Information Officer, as the case may be, may within thirty days from the expiry of such period or from the receipt of such a decision prefer an appeal to such officer who is senior in rank to the Central Public Information Officer or State Public Information Officer in each public authority.\n\nSection 20(1). Penalties\nWhere the Central Information Commission or the State Information Commission, as the case may be, at the time of deciding any complaint or appeal is of the opinion that the Central Public Information Officer or the State Public Information Officer, as the case may be, has, without any reasonable cause, refused to receive an application for information or has not furnished information within the time specified under sub-section (1) of section 7 or malafidely denied the request for information or knowingly given incorrect, incomplete or misleading information or destroyed information which was the subject of the request or obstructed in any manner in furnishing the information, it shall impose a penalty of two hundred and fifty rupees each day till application is received or information is furnished, so however, the total amount of such penalty shall not exceed twenty-five thousand rupees.\n\nSection 24(1). Act not to apply to certain organisations\nNothing contained in this Act shall apply to the intelligence and security organisations specified in the Second Schedule, being organisations established by the Central Government or any information furnished by such organisations to that Government: Provided that the information pertaining to the allegations of corruption and human rights violations shall not be excluded under this sub-section.",
+  "chunks": [
+    {
+      "chunk_id": "rti-2005::c000",
+      "char_start": 0,
+      "char_end": 422,
+      "seq": 0
+    },
+    {
+      "chunk_id": "rti-2005::c001",
+      "char_start": 424,
+      "char_end": 948,
+      "seq": 1
+    },
+    {
+      "chunk_id": "rti-2005::c002",
+      "char_start": 950,
+      "char_end": 1519,
+      "seq": 2
+    },
+    {
+      "chunk_id": "rti-2005::c003",
+      "char_start": 1521,
+      "char_end": 1641,
+      "seq": 3
+    },
+    {
+      "chunk_id": "rti-2005::c004",
+      "char_start": 1643,
+      "char_end": 2160,
+      "seq": 4
+    },
+    {
+      "chunk_id": "rti-2005::c005",
+      "char_start": 2162,
+      "char_end": 2418,
+      "seq": 5
+    },
+    {
+      "chunk_id": "rti-2005::c006",
+      "char_start": 2420,
+      "char_end": 2946,
+      "seq": 6
+    },
+    {
+      "chunk_id": "rti-2005::c007",
+      "char_start": 2948,
+      "char_end": 4129,
+      "seq": 7
+    },
+    {
+      "chunk_id": "rti-2005::c008",
+      "char_start": 4131,
+      "char_end": 4633,
+      "seq": 8
+    },
+    {
+      "chunk_id": "rti-2005::c009",
+      "char_start": 4635,
+      "char_end": 5173,
+      "seq": 9
+    },
+    {
+      "chunk_id": "rti-2005::c010",
+      "char_start": 5175,
+      "char_end": 6100,
+      "seq": 10
+    },
+    {
+      "chunk_id": "rti-2005::c011",
+      "char_start": 6102,
+      "char_end": 6558,
+      "seq": 11
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:43.394Z"
+}

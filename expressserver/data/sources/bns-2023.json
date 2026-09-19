@@ -1,0 +1,72 @@
+{
+  "doc_id": "bns-2023",
+  "doc_title": "Bharatiya Nyaya Sanhita, 2023",
+  "doc_type": "act",
+  "act_code": "BNS",
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+  "verification_status": "unverified",
+  "text": "Section 1(2). Commencement\nIt shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint. The Sanhita came into force on 1 July 2024 and applies to offences committed on or after that date; offences committed before that date continue to be governed by the Indian Penal Code, 1860.\n\nSection 100. Culpable homicide\nWhoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.\n\nSection 101. Murder\nExcept in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death.\n\nSection 103(1). Punishment for murder\nWhoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.\n\nSection 105. Punishment for culpable homicide not amounting to murder\nWhoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which shall not be less than five years but which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death or of causing such bodily injury as is likely to cause death.\n\nSection 106(1). Causing death by negligence\nWhoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.\n\nSection 152. Act endangering sovereignty, unity and integrity of India\nWhoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years, and shall also be liable to fine.\n\nSection 303. Theft\nWhoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft.\n\nSection 318(4). Cheating and dishonestly inducing delivery of property\nWhoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\nSection 356. Defamation\nWhoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person. Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both, or with community service.",
+  "chunks": [
+    {
+      "chunk_id": "bns-2023::c000",
+      "char_start": 0,
+      "char_end": 337,
+      "seq": 0
+    },
+    {
+      "chunk_id": "bns-2023::c001",
+      "char_start": 339,
+      "char_end": 634,
+      "seq": 1
+    },
+    {
+      "chunk_id": "bns-2023::c002",
+      "char_start": 636,
+      "char_end": 1158,
+      "seq": 2
+    },
+    {
+      "chunk_id": "bns-2023::c003",
+      "char_start": 1160,
+      "char_end": 1309,
+      "seq": 3
+    },
+    {
+      "chunk_id": "bns-2023::c004",
+      "char_start": 1311,
+      "char_end": 1788,
+      "seq": 4
+    },
+    {
+      "chunk_id": "bns-2023::c005",
+      "char_start": 1790,
+      "char_end": 2074,
+      "seq": 5
+    },
+    {
+      "chunk_id": "bns-2023::c006",
+      "char_start": 2076,
+      "char_end": 2697,
+      "seq": 6
+    },
+    {
+      "chunk_id": "bns-2023::c007",
+      "char_start": 2699,
+      "char_end": 2914,
+      "seq": 7
+    },
+    {
+      "chunk_id": "bns-2023::c008",
+      "char_start": 2916,
+      "char_end": 3408,
+      "seq": 8
+    },
+    {
+      "chunk_id": "bns-2023::c009",
+      "char_start": 3410,
+      "char_end": 3962,
+      "seq": 9
+    }
+  ],
+  "ingested_at": "2026-09-09T20:03:35.640Z"
+}
